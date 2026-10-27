@@ -30,3 +30,6 @@ Website: https://payzilla.ai · Developers: https://payzilla.ai/developers/ · T
 Examples: https://github.com/payzillaai/examples
 
 Questions or problems: write to the address on payzilla.ai with the transaction link and what happened.
+
+## License
+MIT. See [LICENSE](LICENSE).
