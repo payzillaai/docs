@@ -18,6 +18,8 @@ Website: https://payzilla.ai · Developers: https://payzilla.ai/developers/ · T
 
 Tested by us on mainnet: our own AI assistant, using a local payer tool and Payzilla's own wallet, paid a live Marketplace test listing 0.01 USDC, finalized on Solana (not customer traffic). Transaction: https://solscan.io/tx/dXB5VJ4QZGj2jkQJsr1ywH3DzoRPtEVuuzvFWftg3N2c5tbrbkW3Et1otipLQQWzTfH7oZqYVXPKc5KmZKxBcg3
 
+![Our AI assistant pays a Payzilla listing: 0.01 USDC, finalized on Solana](assets/tested-payment.png)
+
 ## What does not change
 - Your agent or wallet signs with its own key. Payzilla never asks for a key or a seed phrase.
 - A Solana transaction cannot be undone.
