@@ -42,7 +42,7 @@ You need Node.js 24 or newer, git, and an assistant that runs local MCP servers 
 
 When you are done: `node src/small-wallet.ts address` shows the balance, `withdraw <address> <USDC>` sends it out, and `remove` deletes the key (it refuses while USDC is left).
 
-We ran these steps ourselves on 29 October 2026 with 0.05 USDC: the assistant paid our 0.01 USDC test listing, finalized on Solana. Our own test, not customer traffic.
+We ran these steps ourselves on 29 October 2026 with 0.05 USDC: the assistant paid our 0.01 USDC test listing, finalized on Solana ([the transaction](https://solscan.io/tx/4ZtiEaRK5udBnfukVXDLbFJqFtMVTUKXSjS4BXHkADgcePEGY2nYq54ThY1fTxUGzjuEyT7QxkoQ7wtzcmLj2H86)). Our own test, not customer traffic.
 
 ## What protects you, and what does not
 
