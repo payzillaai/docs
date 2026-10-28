@@ -16,7 +16,7 @@ Website: https://payzilla.ai · Developers: https://payzilla.ai/developers/ · T
 | Cards | Mock only | The card rail uses a mock card provider. |
 | Agent protocols (UCP, ACP, AP2, A2A) | None live | Watching, nothing built. |
 
-Tested by us on mainnet: our own agent paid a live Marketplace listing over MCP, 0.01 USDC, finalized on Solana (own wallet, a test listing, not customer traffic). Transaction: https://solscan.io/tx/dXB5VJ4QZGj2jkQJsr1ywH3DzoRPtEVuuzvFWftg3N2c5tbrbkW3Et1otipLQQWzTfH7oZqYVXPKc5KmZKxBcg3
+Tested by us on mainnet: our own AI assistant, using a local payer tool and Payzilla's own wallet, paid a live Marketplace test listing 0.01 USDC, finalized on Solana (not customer traffic). Transaction: https://solscan.io/tx/dXB5VJ4QZGj2jkQJsr1ywH3DzoRPtEVuuzvFWftg3N2c5tbrbkW3Et1otipLQQWzTfH7oZqYVXPKc5KmZKxBcg3
 
 ## What does not change
 - Your agent or wallet signs with its own key. Payzilla never asks for a key or a seed phrase.
