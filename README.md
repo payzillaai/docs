@@ -27,6 +27,7 @@ Tested by us on mainnet: our own AI assistant, using a local payer tool and Payz
 - Limits are small to start. Nothing is charged yet.
 
 ## In this repo
+- [pay.md](pay.md): how to pay: a pay link, your AI assistant with the payer, or MCP and x402
 - [mcp.md](mcp.md): the MCP server, its four tools and limits
 - [sell.md](sell.md): list a service and get paid
 - [pay-link.md](pay-link.md): how a person pays with a pay link
